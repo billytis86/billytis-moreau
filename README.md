@@ -5,6 +5,7 @@
 - <b>BUILD AN IMAGE LABELS GENERATOR USING AMAZON REKOGNITION</b>
 
 [Build an image labels generator using Amazon Rekognition (1).pdf](https://github.com/billytis86/billytis-moreau/blob/3c10e40df2a7936b80e02686b2dbd347f7623f5a/Build%20an%20image%20labels%20generator%20using%20Amazon%20Rekognition%20(1).pdf)
+
 - <b>DEVELOP A TEXT NARRATOR USING AMAZON POLLY</b>
 
 - <b>BUILDING AN ENTIRE E-COMMERCE WEBSITE READY TO DEPLOY IN AWS (CLOUD MART PROJECT)</b>
